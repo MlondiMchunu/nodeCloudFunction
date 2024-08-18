@@ -1,0 +1,11 @@
+{
+  "name": "nodecloudfunction",
+  "version": "1.0.0",
+  "description": "This is a Cloud Function for Node.js that reports whether a specified temperature is acceptable or too hot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
